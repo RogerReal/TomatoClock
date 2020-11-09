@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tomato</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="small_tomato">小番茄</string>
+    <string name="big_tomato">大番茄</string>
+    <string name="menu_settings">设置</string>
+    <string name="maxCustomTimeLength">设置自定义最大值</string>
+    <string name="set">保存并返回</string>
+    <string name="ScreenAlwaysOn">计时屏幕常亮</string>
+</resources>
